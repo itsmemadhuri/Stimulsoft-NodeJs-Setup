@@ -114,7 +114,6 @@ exports.process = function (command, onResult) {
             database: command.connectionStringInfo.database
         };
         
-// HERE IS THE CONNECTION STRING = /"user=sa; password=LunaMaya123!; server=mssql.emerioindonesia.com; database=TelemarketingBCA;"/"
 
         connect();
     }
