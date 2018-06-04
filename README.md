@@ -6,4 +6,4 @@ Bottomline in here is that we need to include an adapter (javascript adapter) th
 connect Stimulsoft JS to database.
 For the analogy.. these adapters are the JDBC of StimulsoftJS.
 
-In here , we considered MSSQL adapter.
+In here ,MSSQL adapter is considered.
